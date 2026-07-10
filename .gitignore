@@ -1,0 +1,17 @@
+# BEGIN swamp managed section - DO NOT EDIT
+
+# Runtime data (not needed in version control)
+.swamp/
+
+# Local extension sources (developer-specific, not shared)
+.swamp-sources.yaml
+# END swamp managed section
+
+# Local model/vault/workflow instances and generated output — this repo
+# publishes only the @mgreten/road-trip-risk-watch extension itself, not
+# local runtime configuration or personal automation state.
+/models/
+/vaults/
+/workflows/
+/reports/
+/scripts/

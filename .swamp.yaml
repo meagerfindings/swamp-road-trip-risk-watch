@@ -1,0 +1,22 @@
+repo:
+  title: road-trip-risk-watch
+  description: >-
+    Swamp extension publishing @mgreten/road-trip-risk-watch — a native
+    route-risk watcher that polls official NWS forecast and alert data for
+    checkpointed trips and emits digest output only when conditions change
+    materially.
+  tags:
+    - weather
+    - travel
+    - automation
+  repoId: b9b1e79d-7b40-4c17-ab40-709b0f59009a
+repoId: ce944bf5-ec09-4d2d-9c41-fa643907e18f
+trustedCollectives:
+  - swamp
+  - si
+  - mgreten
+  - homelab
+swampVersion: 20260710.003216.0
+upgradedAt: '2026-07-10T11:44:22.837Z'
+tools: []
+gitignoreManaged: true
