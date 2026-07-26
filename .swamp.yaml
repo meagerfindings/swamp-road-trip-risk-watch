@@ -16,7 +16,7 @@ trustedCollectives:
   - si
   - mgreten
   - homelab
-swampVersion: 20260710.003216.0
-upgradedAt: '2026-07-10T11:44:22.837Z'
+swampVersion: 20260726.012317.0
+upgradedAt: '2026-07-26T02:22:59.891Z'
 tools: []
 gitignoreManaged: true
